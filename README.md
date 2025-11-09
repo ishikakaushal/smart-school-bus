@@ -1,4 +1,3 @@
-# smart-school-bus
 # Smart School Bus – RFID Attendance & GSM Notification System
 
 This project is a safety and attendance automation system designed for school buses.  
